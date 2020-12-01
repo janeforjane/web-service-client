@@ -1,0 +1,11 @@
+ws/GetAllMessage.class
+ws/GetAllMessageResponse.class
+ws/ObjectFactory.class
+ws/DemoServiceService.class
+ws/GetMessage.class
+ws/GetMessageResponse.class
+ws/package-info.class
+ws/DemoService.class
+ws/Add.class
+ws/AddResponse.class
+wsClient/Main.class
